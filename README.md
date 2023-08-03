@@ -18,4 +18,7 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 8. **_Browser Tamer **: Un navegador simple y práctico que permite redireccionar automáticamente ciertas URL a otros navegadores de tu elección. [Descargar _Browser Tamer](https://www.aloneguid.uk/projects/bt/)
 
+## Licencia
+Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
+
 Nota: Este repositorio se ha creado con fines informativos y educativos, y no se recomienda desinstalar navegadores sin una justificación válida o sin entender completamente las implicaciones. Cada usuario es responsable de tomar decisiones informadas sobre la privacidad y la seguridad en línea.
