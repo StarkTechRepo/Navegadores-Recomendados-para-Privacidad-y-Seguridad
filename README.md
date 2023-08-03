@@ -4,7 +4,7 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 1. **Brave (Un Google Chrome con menos recopilación de datos)**: Brave es una alternativa a Google Chrome que respeta la privacidad del usuario al bloquear rastreadores y anuncios invasivos por defecto, proporcionando una experiencia de navegación más rápida y segura.
 
-2. **[Descargar Microsoft Edge](sera el reemplazo de Google Chrome?...)**: Enlace para descargar el navegador Microsoft Edge, la última versión del navegador web desarrollado por Microsoft, con mejoras de rendimiento y seguridad.
+2. **[Descargar Microsoft Edge](sera el reemplazo de Google Chrome?...)**: la última versión del navegador web desarrollado por Microsoft, con mejoras de rendimiento y seguridad.
 
 3. **Google Chrome (Estabilidad en las webs, más recopilación de datos)**: Google Chrome es un navegador popular conocido por su estabilidad y velocidad, pero con mayor recopilación de datos por parte de Google.
 
@@ -12,7 +12,7 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 5. **Mozilla Firefox (Seguro, padre de Tor Browser)**: Mozilla Firefox es un navegador de código abierto conocido por su compromiso con la privacidad y la seguridad del usuario. También es la base sobre la cual se construye el navegador Tor.
 
-6. **Opera One - La navegación reinventada - Opera**: Enlace para descargar el navegador Opera, que ofrece características innovadoras y un énfasis en la velocidad y la privacidad.
+6. **Opera One - La navegación reinventada - Opera**:  ofrece características innovadoras y un énfasis en la velocidad y la privacidad.
 
 7. **Tor Browser (Seguro, hijo de Mozilla Firefox con IQ)**: Tor Browser es un navegador especializado que utiliza la red Tor para garantizar el anonimato y la privacidad en línea.
 
