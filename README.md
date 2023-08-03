@@ -1,5 +1,7 @@
 # Navegadores Recomendados - Privacidad y Seguridad
 
+![Windows Image](path/to/your/image.png)
+
 En este repositorio, encontrarás una colección de enlaces a navegadores alternativos que priorizan la privacidad y la seguridad del usuario. Cada navegador tiene características únicas que ofrecer y se han seleccionado cuidadosamente para brindar opciones a aquellos que buscan una experiencia de navegación más protegida y con menos recopilación de datos. A continuación, se describen brevemente los navegadores incluidos:
 
 1. **Brave (Un Google Chrome con menos recopilación de datos)**: Brave es una alternativa a Google Chrome que respeta la privacidad del usuario al bloquear rastreadores y anuncios invasivos por defecto, proporcionando una experiencia de navegación más rápida y segura. [Descargar Brave](https://brave.com/)
