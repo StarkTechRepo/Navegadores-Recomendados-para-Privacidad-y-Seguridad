@@ -16,6 +16,6 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 7. **Tor Browser (Seguro, hijo de Mozilla Firefox con IQ)**: Tor Browser es un navegador especializado que utiliza la red Tor para garantizar el anonimato y la privacidad en línea. [Descargar Tor Browser](https://www.torproject.org/download/)
 
-8. **_Browser Tamer (Redireccionar URL a otro navegador)**: Un navegador simple y práctico que permite redireccionar automáticamente ciertas URL a otros navegadores de tu elección. [Descargar _Browser Tamer](https://www.aloneguid.uk/projects/bt/)
+8. **_Browser Tamer **: Un navegador simple y práctico que permite redireccionar automáticamente ciertas URL a otros navegadores de tu elección. [Descargar _Browser Tamer](https://www.aloneguid.uk/projects/bt/)
 
 Nota: Este repositorio se ha creado con fines informativos y educativos, y no se recomienda desinstalar navegadores sin una justificación válida o sin entender completamente las implicaciones. Cada usuario es responsable de tomar decisiones informadas sobre la privacidad y la seguridad en línea.
