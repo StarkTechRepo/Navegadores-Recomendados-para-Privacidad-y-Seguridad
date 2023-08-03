@@ -4,7 +4,7 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 1. **Brave (Un Google Chrome con menos recopilación de datos)**: Brave es una alternativa a Google Chrome que respeta la privacidad del usuario al bloquear rastreadores y anuncios invasivos por defecto, proporcionando una experiencia de navegación más rápida y segura.
 
-2. **[Descargar Microsoft Edge](sera el reemplazo de Google Chrome?...)**: la última versión del navegador web desarrollado por Microsoft, con mejoras de rendimiento y seguridad.
+2. **Microsoft Edge (sera el reemplazo de Google Chrome?...)**: la última versión del navegador web desarrollado por Microsoft, con mejoras de rendimiento y seguridad.
 
 3. **Google Chrome (Estabilidad en las webs, más recopilación de datos)**: Google Chrome es un navegador popular conocido por su estabilidad y velocidad, pero con mayor recopilación de datos por parte de Google.
 
