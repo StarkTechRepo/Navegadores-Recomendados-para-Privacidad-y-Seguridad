@@ -18,7 +18,7 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 7. **Tor Browser (Seguro, hijo de Mozilla Firefox con IQ)**: Tor Browser es un navegador especializado que utiliza la red Tor para garantizar el anonimato y la privacidad en línea. [Descargar Tor Browser](https://www.torproject.org/download/)
 
-8. **_Browser Tamer **: Un navegador simple y práctico que permite redireccionar automáticamente ciertas URL a otros navegadores de tu elección. [Descargar _Browser Tamer](https://www.aloneguid.uk/projects/bt/)
+8. **_Browser Tamer **: Un navegador simple y práctico que permite redireccionar automáticamente ciertas URL a otros navegadores de tu elección. [Descargar _Browser Tamer](https://github.com/aloneguid/bt/releases)
 
 9. **DuckDuckGo Private Browser **: Un navegador simple y práctico que permite consiguir protección de privacidad sin fisuras en tu navegador de forma gratuita. [Descargar _DuckDuckGo Private Browser](https://duckduckgo.com/)
 
