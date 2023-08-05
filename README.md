@@ -20,7 +20,7 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 8. **_Browser Tamer **: Un navegador simple y práctico que permite redireccionar automáticamente ciertas URL a otros navegadores de tu elección. [Descargar _Browser Tamer](https://www.aloneguid.uk/projects/bt/)
 
-9. **DuckDuckGo Private Browser **: Un navegador simple y práctico que permite consiguir protección de privacidad sin fisuras en tu navegador de forma gratuita. [Descargar _Browser Tamer](https://duckduckgo.com/)
+9. **DuckDuckGo Private Browser **: Un navegador simple y práctico que permite consiguir protección de privacidad sin fisuras en tu navegador de forma gratuita. [Descargar _DuckDuckGo Private Browser](https://duckduckgo.com/)
 
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
