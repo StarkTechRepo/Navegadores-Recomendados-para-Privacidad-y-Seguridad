@@ -8,11 +8,11 @@ En este repositorio, encontrarás una colección de enlaces a navegadores altern
 
 2. **Microsoft Edge (¿Será el reemplazo de Google Chrome?)**: La última versión del navegador web desarrollado por Microsoft, con mejoras de rendimiento y seguridad. [Descargar Microsoft Edge](https://microsoft.com/edge)
 
-3. **Google Chrome (Estabilidad en las webs, más recopilación de datos)**: Google Chrome es un navegador popular conocido por su estabilidad y velocidad, pero con mayor recopilación de datos por parte de Google. [Descargar Google Chrome](https://www.google.com/chrome/)
+3. **Google Chrome (Estabilidad en las webs, más recopilación de datos)**: Google Chrome es un navegador popular conocido por su estabilidad y velocidad, pero con mayor recopilación de datos por parte de Google. [Descargar Google Chrome](https://www.google.com/chrome/?standalone=1)
 
 4. **LibreWolf (Seguro, es el Mozilla Firefox pero configurado para la privacidad)**: LibreWolf es una versión personalizada de Mozilla Firefox con enfoque en la privacidad, incluyendo configuraciones preestablecidas para proteger la información del usuario. [Descargar LibreWolf](https://librewolf-community.gitlab.io/)
 
-5. **Mozilla Firefox (Seguro, padre de Tor Browser)**: Mozilla Firefox es un navegador de código abierto conocido por su compromiso con la privacidad y la seguridad del usuario. También es la base sobre la cual se construye el navegador Tor. [Descargar Mozilla Firefox](https://www.mozilla.org/firefox/)
+5. **Mozilla Firefox (Seguro, padre de Tor Browser)**: Mozilla Firefox es un navegador de código abierto conocido por su compromiso con la privacidad y la seguridad del usuario. También es la base sobre la cual se construye el navegador Tor. [Descargar Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/all/#product-desktop-release)
 
 6. **Opera One - La navegación reinventada - Opera**: Opera ofrece características innovadoras y un énfasis en la velocidad y la privacidad. [Descargar Opera](https://www.opera.com/)
 
