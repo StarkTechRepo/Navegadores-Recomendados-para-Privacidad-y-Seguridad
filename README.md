@@ -1,6 +1,6 @@
 # Navegadores Recomendados - Privacidad y Seguridad
 
-![imagen](foto.jpeg)
+![imagen](foto.jfif)
 
 En este repositorio, encontrarás una colección de enlaces a navegadores alternativos que priorizan la privacidad y la seguridad del usuario. Cada navegador tiene características únicas que ofrecer y se han seleccionado cuidadosamente para brindar opciones a aquellos que buscan una experiencia de navegación más protegida y con menos recopilación de datos. A continuación, se describen brevemente los navegadores incluidos:
 
