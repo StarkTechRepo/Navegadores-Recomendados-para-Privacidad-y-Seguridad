@@ -21,6 +21,8 @@
 5. [Licencia](#licencia)
 6. [Nota importante](#nota-importante)
 
+---
+
 ## Recomendados
 
 ### 1. **Google Chrome** 🌐
@@ -32,6 +34,8 @@
    - Navegador de código abierto conocido por su compromiso con la privacidad.
    - Base para el navegador Tor.
    - [Descargar Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/all/#product-desktop-release)
+
+---
 
 ## Alternativas
 
@@ -45,6 +49,8 @@
    - Configuraciones preestablecidas para proteger la información del usuario.
    - [Descargar LibreWolf](https://librewolf-community.gitlab.io/)
 
+---
+
 ## Privacidad
 
 ### 5. **DuckDuckGo Private Browser** 🦆
@@ -55,6 +61,8 @@
    - Navegador especializado que utiliza la red Tor.
    - [Descargar Tor Browser](https://www.torproject.org/download/)
 
+---
+
 ## Otros
 
 ### 7. **Microsoft Edge** 🌐
@@ -64,7 +72,9 @@
 ### 8. ** Browser Tamer**🐾
    - Navegador simple y práctico que permite redireccionar automáticamente URL.
    - [Descargar Browser Tamer](https://github.com/aloneguid/bt)
-    
+
+---
+
 # Licencia 📜
 
 Este proyecto está bajo la [licencia Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos pasos siempre que des el crédito correspondiente al autor original.
