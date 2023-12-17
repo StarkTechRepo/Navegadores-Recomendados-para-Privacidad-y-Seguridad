@@ -15,6 +15,7 @@
 3. [Privacidad](#privacidad)
    - [DuckDuckGo Private Browser](#5-duckduckgo-private-browser)
    - [Tor Browser](#6-tor-browser)
+   - [Mullvad VPN*](#6-Mullvad-VPN)
 4. [Otros](#otros)
    - [Microsoft Edge](#7-microsoft-edge)
    - [_Browser Tamer_](#8-browser-tamer)
@@ -61,15 +62,19 @@
    - Navegador especializado que utiliza la red Tor.
    - [Descargar Tor Browser](https://www.torproject.org/download/)
 
+### 7. **Mullvad VPN** 🔒
+   - VPN que proporciona un alto nivel de privacidad y anonimato en línea, basado en la red Tor.
+   - [Sitio web de Mullvad VPN](https://mullvad.net/es)
+
 ---
 
 ## Otros
 
-### 7. **Microsoft Edge** 🌐
+### 8. **Microsoft Edge** 🌐
    - Desarrollado por Microsoft, con mejoras de rendimiento y seguridad.
    - [Descargar Microsoft Edge](https://microsoft.com/edge)
 
-### 8. ** Browser Tamer**🐾
+### 9. ** Browser Tamer**🐾
    - Navegador simple y práctico que permite redireccionar automáticamente URL.
    - [Descargar Browser Tamer](https://github.com/aloneguid/bt)
 
